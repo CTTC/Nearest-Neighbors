@@ -1,6 +1,8 @@
 # Nearest-Neighbors
 
+---
 These two notebooks coded the algorithms talked in the [Machine Learning: Clustering and Retrieval] Course(https://www.coursera.org/learn/ml-clustering-and-retrieval/home/welcome)
+
 ---
 
 ```Nearest-neighbors-features-and-metrics```
