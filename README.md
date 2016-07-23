@@ -4,8 +4,7 @@
 These two notebooks coded the algorithms talked in the [Machine Learning: Clustering and Retrieval] Course(https://www.coursera.org/learn/ml-clustering-and-retrieval/home/welcome)
 
 ---
-
-```Nearest-neighbors-features-and-metrics```
+**Nearest-neighbors-features-and-metrics**
 
 The goal of this notebook is to 
 * gain intuition for different notions of similarity and practice finding similar documents. 
@@ -14,7 +13,7 @@ The goal of this notebook is to
 
 ---
 
-```Nearest-neighbors-lsh-implementation```
+**Nearest-neighbors-lsh-implementation**
 
 The goal of this notebook is to 
 * implement the LSH(Locality Sensitive Hashing) algorithm for approximate nearest neighbor search
